@@ -42,7 +42,7 @@ Here are the two routes of the API :
 }
 ```
 
-Your mission is to create a SPA which display projects and their details when the user selects a project.
+Your mission is to create a React SPA which display projects tiles and their details when the user selects a project.
 
 You are free to make technical choices (libs, tools), UX and ergonomics!
 
